@@ -1,0 +1,9 @@
+export { Header } from "./Header";
+export { Hero } from "./Hero";
+export { HowItWorks } from "./HowItWorks";
+export { Features } from "./Features";
+export { MatchesPreview } from "./MatchesPreview";
+export { OrganizerSection } from "./OrganizerSection";
+export { Testimonials } from "./Testimonials";
+export { PrivacyTrust } from "./PrivacyTrust";
+export { Footer } from "./Footer";
