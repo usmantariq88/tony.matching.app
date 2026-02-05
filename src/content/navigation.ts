@@ -8,6 +8,7 @@ export const navigationContent = {
     { label: "Features", href: "#features" },
     { label: "For Organizers", href: "#organizers" },
     { label: "Trust & Privacy", href: "#privacy" },
+    { label: "Pricing", href: "/pricing" },
   ],
   cta: {
     primary: {
